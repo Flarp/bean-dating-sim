@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Flarp/bean-dating-sim#readme",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^11.5.1",
+    "merge-images": "^1.1.0"
   }
 }
